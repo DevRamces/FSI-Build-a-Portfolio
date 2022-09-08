@@ -1,7 +1,19 @@
 body {
-    background-color: beige
+    background-color: white
+    font-family: "Times New Roman", Times, serif;
+    cursor: pointer;
 }
 
 #port-img {
     border-radius: 15550px;
+    border: 2px solid red;
+  border-radius: 25px;
+    height: 50%;
+    width: 50%;
+}
+
+.Header-centered {
+    text-align: center;
+
+
 }
